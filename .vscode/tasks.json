@@ -6,7 +6,10 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g", "${file}", "-o", "${fileBasenameNoExtension}.exe"
+                "-g",
+                "${file}",
+                "-o",
+                "${workspaceFolder}/build/${fileBasenameNoExtension}.exe"
             ],
             "group": {
                 "kind": "build",
