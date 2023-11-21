@@ -18,6 +18,8 @@ int main(){
     system("pause");
     return 0;
 }
+
+
 //方法二
 // switch (hours*60+minetes){
 // case 0 ... 720:
@@ -30,6 +32,6 @@ int main(){
 //     cout << "3" << '\n';
 //     break;
 // default:
-//     cout << "error" << '\n';
+//     cout << "time error" << '\n';
 //     break;
 // }
