@@ -14,8 +14,9 @@ int main(){
     }else{                          // 18:01 以後 晚上
         cout << "3" << '\n';
     }
+    
     //系統暫停，extand terminal (提供資料用) 
-    system("pause");
+    // system("pause");
     return 0;
 }
 

@@ -13,6 +13,6 @@ int main(){
     }
 
     //系統暫停，extand terminal (提供資料用) 
-    system("pause");
+    // system("pause");
     return 0;
 }
