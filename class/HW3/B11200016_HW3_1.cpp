@@ -22,7 +22,6 @@ int main(){
     }else{
         cout << "Acute angle" << '\n';
     }
-
-    return 0;
     
+    return 0;
 }
