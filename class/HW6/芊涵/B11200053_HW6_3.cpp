@@ -6,7 +6,7 @@ double a(double c);
 int main(){
     double c;
     cin >> c;
-    cout << temper(c);
+    cout << a(c);
     return 0;
 }
 
