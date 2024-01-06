@@ -7,6 +7,5 @@ int main(){
     x=a*a+2*a*b+b*b;
     cout<<x;
 
-    system("pause");
     return 0;
 }

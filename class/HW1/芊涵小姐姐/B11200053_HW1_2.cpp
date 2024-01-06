@@ -11,7 +11,5 @@ int main(){
     else if(18<=H&&H<23){
         cout<<3;
     }
-
-    system("pause");
     return 0;
 }

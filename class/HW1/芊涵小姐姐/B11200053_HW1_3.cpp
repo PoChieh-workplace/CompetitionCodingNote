@@ -15,7 +15,5 @@ int main(){
     else{
         cout <<4;
     }
-
-    system("pause");
     return 0;
 }
